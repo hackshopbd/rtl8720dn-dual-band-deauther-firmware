@@ -9,7 +9,9 @@
 ---
 
 ### 📺 Video Course Player
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=01kW21mAvaRHsVX-&amp;list=PL31o54cPBppJHlhb32bN1j0FpLVgTIerQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![RTL8720DN Video Course](https://img.youtube.com/vi/PL31o54cPBppJHlhb32bN1j0FpLVgTIerQ/maxresdefault.jpg)](https://youtube.com/playlist?list=PL31o54cPBppJHlhb32bN1j0FpLVgTIerQ&si=JGNYAz2smCkhOlCb)
+
+*Click the image above to watch the complete step-by-step video tutorial playlist on YouTube.*
 
 ---
 
